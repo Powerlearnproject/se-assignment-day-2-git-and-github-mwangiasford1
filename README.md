@@ -48,7 +48,7 @@ This are to be included:
 7.License.
 8.Contact and support.
 HOW READ.ME ENHANCECOLABOLATION:
-1.Standardized information - new members can undurstand goalsand structures.
+1.Standardized information - new members can understand goalsand structures.
 2.Reduced repeated questions - cleary written instructions minimize unnecessary queries.
 3.Encarages open source collabolations - A wecoming Read.me can attract more contributors.
 4.Boost project adaptions - potencial users can easly install and use the project more likely.
